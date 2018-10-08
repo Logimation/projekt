@@ -1,0 +1,2 @@
+[0912/121236.829:ERROR:process_reader_win.cc(123)] NtOpenThread: {Adgang nægtet} En proces har anmodet om adgang til et objekt, men har ikke fået disse rettigheder. (0xc0000022)
+[0912/121236.835:ERROR:exception_snapshot_win.cc(88)] thread ID 11352 not found in process
